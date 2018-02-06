@@ -1,0 +1,8 @@
+# https://travis-ci.org/whardier/plexchange
+language: python
+python:
+  - "3.5"
+install:
+  - "pip install -r requirements/requirements.txt"
+script:
+  - "nosetests -v --all-modules plexchange/test"
