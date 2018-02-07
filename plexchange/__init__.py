@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
+# ┏━┓╻  ┏━╸╻ ╻┏━╸╻ ╻┏━┓┏┓╻┏━╸┏━╸
+# ┣━┛┃  ┣╸ ┏╋┛┃  ┣━┫┣━┫┃┗┫┃╺┓┣╸
+# ╹  ┗━╸┗━╸╹ ╹┗━╸╹ ╹╹ ╹╹ ╹┗━┛┗━╸
+#
 # MIT License
 #
 # Copyright (c) 2018 Shane R. Spencer
